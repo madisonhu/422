@@ -1,9 +1,10 @@
 #include <iostream>
 #include <thread>
-#include <semaphore>
+#include <semaphore.h>
 #include <random>
 #include <vector>
 #include <algorithm>
+#include <unistd.h>
 
 using namespace std;
 
